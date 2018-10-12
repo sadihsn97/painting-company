@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
 	// start with some introduction messages
-	cout << "Welcome to Saqib's painting company.";	
+	cout << "Welcome to BEST painting company.";	
 
 	// prompts the user to enter the number of rooms
 	cout << "Enter the number of rooms: ";
@@ -21,8 +21,8 @@ int main() {
 		 << "A    " << \t << "RM75" << endl
 		 << "B    " << \t << "RM100" << endl
 		 << "C    " << \t << "RM120" << endl
-	cout << endl << "The band you choose is: ";
-	cin >> band;
+	cout << endl << "The brand you choose is: ";
+	cin >> brand;
 
 	// display 
 	// The number of litre of paint required
